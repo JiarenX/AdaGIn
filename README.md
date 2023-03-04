@@ -2,7 +2,7 @@
 
 This is our implementation for the following paper:
 
->[Jiaren Xiao, Quanyu Dai, Xiaochen Xie, Qi Dou, Ka-Wai Kwok, and James Lam. "Domain Adaptive Graph Infomax via Conditional Adversarial Networks." IEEE Transactions on Network Science and Engineering 10, no. 1 (2022): 35-52.](https://ieeexplore.ieee.org/abstract/document/9866817)
+>[Jiaren Xiao, Quanyu Dai, Xiaochen Xie, Qi Dou, Ka-Wai Kwok, and James Lam. "Domain Adaptive Graph Infomax via Conditional Adversarial Networks." IEEE Transactions on Network Science and Engineering 10, no. 1 (2023): 35-52.](https://ieeexplore.ieee.org/abstract/document/9866817)
 
 
 ## Abstract
